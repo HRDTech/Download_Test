@@ -3,5 +3,6 @@ Ejemplo del uso de AsyncTask para descargar un fichero desde internet
 
 Uso de AsyncTask para descargar fichero desde internet.
 
-![](Screenshot.png {width=40px height=400px})
-![](Screenshot_1.png {width=40px height=400px})
+<img src="https://github.com/HRDTech/Download_Test/blob/master/Screenshot.png" width="200px">
+
+<img src="https://github.com/HRDTech/Download_Test/blob/master/Screenshot_1.png" width="200px">
